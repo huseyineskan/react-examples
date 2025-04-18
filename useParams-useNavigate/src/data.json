@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "TV",
+      "price": "5000",
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2024/10/14/TELEMMGLPICT000397821268_17288950599490_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "PC",
+      "price": 10000,
+      "url": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2019/07/14/885651781.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "price": 12000,
+      "url": "https://campaign.ecs.com.tw/images/products/large/MF50AL.png"
+    }
+  ]
+}

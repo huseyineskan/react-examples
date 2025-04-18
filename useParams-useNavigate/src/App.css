@@ -1,0 +1,23 @@
+.product {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 400px;
+  border: 1px solid #7e7e7e;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.product .product-img {
+  width: 200px;
+  flex: 2;
+}
+
+.product .product-img img {
+  width: 100%;
+}
+
+.product-texts {
+  flex: 3;
+  margin-left: 20px;
+}
